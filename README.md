@@ -2,10 +2,11 @@
     
 ## Agnes's Github
 
-✨ Became a developer as wanted to create something new by myself!
-💼 Used to work in the areas of international business development, legal, and operations
-👍 Ultimate goal is to become not only a high-skilled full-stack developer, but also an entrepreneur
-Thanks for visiting 👋
+<p>✨ Became a developer as wanted to create something new by myself!</p>
+<p>💼 Used to work in the areas of international business development, legal, and operations</p>
+<p>👍 Ultimate goal is to become not only a high-skilled full-stack developer, but also an entrepreneur</p>
+
+Thanks for visiting
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FAgnesPark&count_bg=%236804B2&title_bg=%23ADA9B0&icon=waze.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -13,9 +14,8 @@ Thanks for visiting 👋
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<h2>STACKS</h2><
-<!-- <div align=center>/div> -->
-<!-- <div align="center"> -->
+<div align=center><h2>STACKS 📚</h2></div>
+<div align="center">
     <div style="display: flex; align-items: flex-start;">
         <!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" align="center">&nbsp; -->
