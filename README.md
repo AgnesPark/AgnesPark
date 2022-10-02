@@ -2,13 +2,13 @@
     
 ## Agnes's Github
 
-<p>✨ Became a developer as wanted to create something new by myself!</p>
-<p>💼 Used to work in the areas of international business development, legal, and operations</p>
-<p>👍 Ultimate goal is to become not only a high-skilled full-stack developer but also an entrepreneur</p>
+<div>
+  <p>✨ Became a developer as wanted to create something new by myself</p>
+  <p>💼 Used to work in the areas of international business development, legal, and operations</p>
+  <p>👍 Ultimate goal is to become not only a high-skilled full-stack developer but also an entrepreneur</p>
 
-Thanks for visiting
-
-<p></p>
+  Thanks for visiting!
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FAgnesPark&count_bg=%236804B2&title_bg=%23ADA9B0&icon=waze.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
