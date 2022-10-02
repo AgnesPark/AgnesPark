@@ -1,8 +1,6 @@
 <div align=center>
     
 ## 👋 Hi, Agnes Kyuun Park
-<!-- ## 🏠 [Portpolio](https://haileypark.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)                ✏️ [Blog (new)](https://haileyjpark.tistory.com) ✏️ [Blog (old)](https://velog.io/@xxhaileypark) -->
-
 
 [![Agnes's github stats](https://github-readme-stats.vercel.app/api?username=AgnesPark&show_icons=true&theme=highcontrast)](https://github.com/AgnesPark/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnesPark&layout=compact&theme=highcontrast)
 
@@ -15,10 +13,10 @@
         <!-- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp; -->
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" align="center"/></div>
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://img.shields.io/badge/HTML5-C5512C?style=flat-square&logo=HTML5&logoColor=white" align="center"/>&nbsp;
         <img src="https://img.shields.io/badge/CSS-4371B2?style=flat-square&logo=CSS3&logoColor=white" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
     
@@ -34,12 +32,4 @@
 -->
 <!--
 <a><img src="https://img.shields.io/badge/Typescript-5175A7?style=flat-square&logo=Typescript&logoColor=white"/></a>
--->    
-
-
-    
-
-<!---
-haileyjpark/haileyjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
