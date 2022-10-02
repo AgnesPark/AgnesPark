@@ -5,7 +5,7 @@
 <div>
   <p>✨ Became a developer as wanted to create something new by myself</p>
   <p>💼 Used to work in the areas of international business development, legal, and operations</p>
-  <p>👍 Ultimate goal is to become not only a high-skilled full-stack developer but also an entrepreneur</p>
+  <p>🦄 Ultimate goal is to become not only a high-skilled full-stack developer but also an entrepreneur</p>
 
   Thanks for visiting!
 </div>
