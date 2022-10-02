@@ -1,4 +1,4 @@
-div align=center>
+<div align=center>
     
 ## 👋 Hi, Agnes Kyuun Park
 <!-- ## 🏠 [Portpolio](https://haileypark.notion.site/Hailey-Park-8d39cef5576545669477ed329b916f97)                ✏️ [Blog (new)](https://haileyjpark.tistory.com) ✏️ [Blog (old)](https://velog.io/@xxhaileypark) -->
@@ -19,7 +19,7 @@ div align=center>
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://img.shields.io/badge/HTML5-C5512C?style=flat-square&logo=HTML5&logoColor=white" align="center"/>&nbsp;
         <img src="https://img.shields.io/badge/CSS-4371B2?style=flat-square&logo=CSS3&logoColor=white" align="center"/>&nbsp;
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
     
 
