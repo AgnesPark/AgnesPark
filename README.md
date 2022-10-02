@@ -1,11 +1,14 @@
 <div align=center>
     
-## 👋 Hi, Agnes Kyuun Park
+## Hi, this is Agnes's Github 👋
 
-[![Agnes's github stats](https://github-readme-stats.vercel.app/api?username=AgnesPark&show_icons=true&theme=highcontrast)](https://github.com/AgnesPark/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnesPark&layout=compact&theme=highcontrast)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgnesPark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Agnes's github stats](https://github-readme-stats.vercel.app/api?username=AgnesPark&show_icons=true&theme=tokyonight)](https://github.com/AgnesPark/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnesPark&layout=compact&theme=tokyonight)
 
-<div align=center><h2>📚 STACKS</h2></div>
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+<div align=center><h2>STACKS 📚</h2></div>
 <div align="center">
     <div style="display: flex; align-items: flex-start;">
         <!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
