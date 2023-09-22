@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Kyuun Park" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Kyuun Park!" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="">
+<a href="https://agneskpark.tistory.com/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -28,7 +28,7 @@
 </td>
 
 <td align="center">
-<a href="">
+<a href="https://www.youtube.com/watch?v=A9rU0hhAqSQ)">
 <strong>Listen to cool music</strong>
 <br />
 <br />
