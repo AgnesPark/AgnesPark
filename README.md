@@ -1,46 +1,74 @@
-<div align=center>
-    
-## Agnes's Github
-
-<div>
-  <p>✨ Became a developer as wanted to create something new by myself</p>
-  <p>💼 Used to work in the areas of international business development, legal, and operations</p>
-  <p>🦄 Ultimate goal is to become not only a high-skilled full-stack developer but also an entrepreneur</p>
-
-  Thanks for visiting!
-</div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FAgnesPark&count_bg=%236804B2&title_bg=%23ADA9B0&icon=waze.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Agnes's github stats](https://github-readme-stats.vercel.app/api?username=AgnesPark&show_icons=true&theme=nightowl)](https://github.com/AgnesPark/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnesPark&layout=compact&theme=nightowl)
-
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
-<div align=center><h2>STACKS</h2></div>
+<!-- "Hero" Header -->
 <div align="center">
-    <div style="display: flex; align-items: flex-start;">
-        <!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" align="center">&nbsp; -->
-        <!-- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp; -->
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://img.shields.io/badge/HTML5-C5512C?style=flat-square&logo=HTML5&logoColor=white" align="center"/>&nbsp;
-        <img src="https://img.shields.io/badge/CSS-4371B2?style=flat-square&logo=CSS3&logoColor=white" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-    
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Kyuun Park" src="images/personal_note.svg" />
+  <br />
+  <br />
 
 </div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+<td align="center">
+<a href="">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- Stack -->
+<br />
+<div align="center">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+</div>
+
+<!-- Footer -->
 
 <div align="center">
-  <sub>created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">qkrdmstlr3</a></sub>
-</div>
 
-<!--
-<a><img src="https://img.shields.io/badge/Javascript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/></a>
--->
-<!--
-<a><img src="https://img.shields.io/badge/Typescript-5175A7?style=flat-square&logo=Typescript&logoColor=white"/></a>
--->
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/agnespark/count.svg)
+
+</div>
